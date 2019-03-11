@@ -814,7 +814,7 @@ textarea.form-control {
         }
 
             .csi-header .csi-navbar .csi-nav .dropdown-menu li a {
-                color: #fff;
+                color: #003366;
                 padding: .6rem 1.5rem !important;
                 font-size: 1.4rem;
                 line-height: 2.0999999999999996rem;
@@ -3253,7 +3253,7 @@ textarea.form-control {
             }
 
         .page .breadcrumb .active, .page-template .breadcrumb .active, .single .breadcrumb .active, .single-post .breadcrumb .active {
-            color: #003366
+            color: #fed136
         }
 
         .page .breadcrumb > li + li:before, .page-template .breadcrumb > li + li:before, .single .breadcrumb > li + li:before, .single-post .breadcrumb > li + li:before {
